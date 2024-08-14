@@ -1,4 +1,4 @@
-# YouTube-video-playlist-dawnloader
+# YouTube-video-playlist-downloader
 
 ## How to use 
 stap 1.
